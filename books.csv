@@ -1,0 +1,14 @@
+BookName,AuthorName,AuthorBirth,StockCode,ISBNno,PageNumber, Price, StockNumber
+Fundamentals of Wavelets,"Goswami, Jaideva","1899",signal_processing,111,228,5,100
+Data Smart,"Foreman, John","1899",data_science,112,235,5,100
+God Created the Integers,"Hawking, Stephen","1899",mathematics,113,197,5,100
+Superfreakonomics,"Dubner, Stephen","1899",economics,114,179,5,100
+Orientalism,"Said, Edward","1899",history,115,197,5,100
+"Nature of Statistical Learning Theory, The","Vapnik, Vladimir","1899",data_science,116,230,5,100
+Integration of the Indian States,"Menon, V P","1899",history,117,217,5,100
+"Drunkard's Walk, The","Mlodinow, Leonard","1899",science,118,197,5,100
+Image Processing & Mathematical Morphology,"Shih, Frank","1899",signal_processing,119,241,5,100
+How to Think Like Sherlock Holmes,"Konnikova, Maria","1899",psychology,120,240,5,100
+Data Scientists at Work,Sebastian Gutierrez,"1899",data_science,121,230,5,100
+Slaughterhouse Five,"Vonnegut, Kurt","1899",fiction,122,198,5,100
+Birth of a Theorem,"Villani, Cedric","1899",mathematics,123,234,5,100 
